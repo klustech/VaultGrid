@@ -1,0 +1,7 @@
+{
+  "pair": "WETH/USDC",
+  "buyBelow": 3000,
+  "sellAbove": 3200,
+  "tradeSizeEth": 0.001,
+  "dryRun": true
+}
